@@ -1,1 +1,33 @@
 # Ch8HOP8-2
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cana Island Lighthouse</title>
+  <style>
+    table, td, th {
+      border: 1px solid #000;
+      border-collapse: collapse;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Cana Island Lighthouse</h1>
+
+  <table>
+    <tr>
+      <td rowspan="3">Cana Island Lighthouse</td>
+      <td>Built: 1869</td>
+    </tr>
+    <tr>
+      <td>Automated: 1944</td>
+    </tr>
+    <tr>
+      <td>Tower Height: 65 feet</td>
+    </tr>
+  </table>
+</body>
+</html>
